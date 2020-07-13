@@ -1,1 +1,1 @@
-# Hollow Pyramid 
+# Hollow Inverted Pyramid 
