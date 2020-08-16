@@ -1,2 +1,2 @@
-# Hollow Inverted Pyramid 
+# Hollow Inverted Pyramid Star 
 
