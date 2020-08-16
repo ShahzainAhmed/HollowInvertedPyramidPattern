@@ -1,2 +1,2 @@
-# Hollow Inverted Pyramid Star Pattern in 
+# Hollow Inverted Pyramid Star Pattern in Java.
 
